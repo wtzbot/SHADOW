@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![SHADOW](<photo_2022-01-05_17-56-18.jpg>
+  [![SHADOW](<img src=photo_2022-01-05_17-56-18.jpg>
  https://github.com/SHADOW |  
 ----|
 [Its_me_SHADOW](https://github.com/SHADOW)  |
